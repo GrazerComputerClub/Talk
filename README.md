@@ -7,4 +7,5 @@
 
 ## [Manfred](https://github.com/mwallner)
 
+* [Killing Golden Images @ ChocolateyFest](https://github.com/mwallner/killing-golden-images-with-chocolatey/blob/master/Killing%20Golden%20Images%20In%20Your%20Infrastructure%20Setups.pdf)
 * [Messen & Steuern mit Raspberry Pi](FortbildungE_Geschwindigkeitsmessung_001.pdf)
